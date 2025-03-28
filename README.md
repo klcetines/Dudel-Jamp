@@ -15,7 +15,7 @@ A vertical platformer where you:
 ⚠ **Note**: This repository is made for portfolio purposes.  
 
 ## 🔧 Developer   
-- 📧 Email: [laneulaestubular@gmail.com](mailto:laneulaestubular@gmail.com)  
+- 📧 Email: [bernatvafo@gmail.com](mailto:bernatvafo@gmail.com)  
 - 💼 LinkedIn: [Bernat Valero Fontana](https://linkedin.com/in/bernatvafo)  
 
 ## ✨ Key Features  
