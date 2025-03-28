@@ -12,9 +12,10 @@ A vertical platformer where you:
 - � Set new high scores  
 
 ## 📁 Repository Contents  
-⚠ **Note**: This repository is made for portfolio purposes.  
+⚠ **Note**: This repository is made for portfolio purposes (not the full Unity project).  
 
-## 🔧 Developer   
+## 🔧 Full Project Access  
+For the complete Unity project:     
 - 📧 Email: [bernatvafo@gmail.com](mailto:bernatvafo@gmail.com)  
 - 💼 LinkedIn: [Bernat Valero Fontana](https://linkedin.com/in/bernatvafo)  
 
