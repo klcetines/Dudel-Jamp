@@ -1,4 +1,4 @@
-# **Dudel-Jamp** 📱🦘  
+# **All the Way Up!** 📱🦘  
 **Degree Project** - A mobile game inspired by the classic *Doodle Jump*  
 
 ![Unity](https://img.shields.io/badge/Unity-6-black.svg?logo=unity&style=flat) 
